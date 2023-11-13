@@ -1,2 +1,1 @@
 Epochen,Batch Size,Lernrate,Hidden Layers,Zeit,Training R2,Test R2
-10,40,0.03,"[8, 8]",7.8,0.951,0.95
